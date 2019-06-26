@@ -8,5 +8,12 @@
     <artifactId>zoffice</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.google.cloud</groupId>
+            <artifactId>google-cloud-translate</artifactId>
+            <version>1.78.0</version>
+        </dependency>
+    </dependencies>
 
 </project>

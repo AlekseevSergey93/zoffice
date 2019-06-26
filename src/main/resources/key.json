@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coherent-answer-244707",
+  "private_key_id": "f05aca01d1b50a965302f7ec6fd0f559d2cd2512",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDoqH5n+ps+sLrC\nQLBjCZ2UM0duu4vYFUecROTTisu2prtONkINkr/lB/QPWEA/aozjerxF5CpMcIXZ\n9lk6ZGuxJJxuUw/PBQfKaYZEKD4aDz7/jVlgsMMhVXEontAoMI49PcSBmh9XRSQ9\nMk7xJtgdB6lHR/KC1eDdVamulO6+w267aaQo2WcmCYpPPmu1exJXYxRxUHjh2ASb\np/9rgMpim1ElVXZ/1k+1b+WNE5+K7BPuToylRPeAF0oDezIH452SHNvuasoZSQrX\nMumt8bW8W3xzcG271X1F9YO+NyNDtS3CgvWQ2K/9hlOmLQmRT7xoL1Yu0HDEOJ66\neMxgHwk7AgMBAAECgf8y5KjCFg/fpskztPLgtznBMXZuwpfUrNL9XBSyMapeShqv\nAS9xyKgxcYvxz1w+gxBOsop8v2yBTBv7kefy3gSwu1F80K6kmnUZ0fuM7UCocq1V\nOZZTkFce85HNUPA32mdC/j/+GbjBXl6PBHJATj74GrTs4tApzp9hy1tS1UFkePDh\nu2F4BOgMRl2E+e23IGeO3Uj2i0YrZ2U+TSs5i2hljae7kP4nI/zbx2/+lzV17MdV\ni+CKRkhk73JqRYXS5znkwckqOVsLXHvdBIh0FenL/9I/E8qCfSBATeWW7EVNKpVz\nfRkwJLASSp3Wy9s4eYCtlqqebfiEm3WHr9XaNoECgYEA/qYXXz3v/H+WfgLx80Kf\n4M5buJ0Khmp+HuL6zGZDxYkJz09HqwD9s/fSmK4AyGjB9g01x20Xis4nXH4sk2Zy\nucXVcF8lwz8HJjFtGdlypfUFZrl8ZCJiHX/p9Rz1nTskF1dSuRa5YVCOV/aeclHY\n3PLj0HlGsOHSJ6YmGefjyHMCgYEA6eSH7SSDITNVuvPhR5KapUM6XJ4yk8aJmZ6i\nLAsestUsstB4MVmqQFD3YDE7DcGNmB+cYECghRDwp1jhMHrsFwM2maGCpaAfenpW\nSRrPq76X1JpquTOZnGQUBfjv4G+2LwZJJxkEckPrsfI9splhR+cp8nmroB/B/5g6\nK27eMhkCgYBOjvrC3R6+LLZGpa3yt+kOt1rAd2IZ2ZyS9r8cc6gQtpgaJoEbljCu\nZpPHmlaPfRHpUGX44gTTQ4oNFLe3uXFHMmsIQbIqq7UO6UyZHuYpoI9MA4kGcz0F\nkMKiZY64NNiLgtr4UrRZ+zoOlPyIlAttDlmNpPxT8TaeGLnEYC97VQKBgQDNP73E\nbeEgtnLKD5AnBdDtq7RAaJcLtRM1Gs9HhS6YUpfaBzUiYYQU0rhy0mD3Ll36G+tX\nT/9NJlN5F3bt20Do5On6IZCLlZtqGIc1ufB5z1Rfvm5fPZfUdMJZh13Bf2bJl2OE\niuCrAU2JJ4HbA9wphAL8hKcGajgM+uI5ER6tqQKBgQCPAdGe9qCaPbCNYcEkGmnc\ne63QaFpImQlXOhtyMSZ7XjS8Qfr9jRtYh3Bito2+zpZW7kDZh3iZTjvsOybW+JIN\nWxJUODGpm5Dzmu+XtZJN2VWfAdFGXqhEniYYQ2lo1rGuA1BwA/dueIK+X+fb832o\ni1a4H3wiROm4D6d8ezZAcQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "translate-manager-swemel@coherent-answer-244707.iam.gserviceaccount.com",
+  "client_id": "105356394837029408169",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translate-manager-swemel%40coherent-answer-244707.iam.gserviceaccount.com"
+}
